@@ -13,6 +13,7 @@ After you have successfully installed Python you can [install JupyterLab](https:
 ## 3. Run JupyterLab
 JupyterLab files are called "Notebooks" because they are organized like handy notebooks.
 Open WindowsExplorer and navigate to the location where you want to create your first JupyterLab Notebook File. Then press RIGHT-MOUSE-CLICK+UMSCHALT at the same time to open the Windows PowerShell in the current directory. You will only see the option in the menu if you really press the right-mouse-click and the UMSCHALT button at the same time, otherwise this option won't appear in the menu:
+
 ![Make sure to check at least the "Add Python to PATH" option](/docs/images/Screenshot_2025-01-06_151554.jpg)
 
 Then [start JupyterLab](https://jupyterlab.readthedocs.io/en/latest/getting_started/starting.html) by typing `jupyter lab` and hit Enter.
