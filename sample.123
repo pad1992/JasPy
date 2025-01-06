@@ -1,0 +1,9 @@
+Introduction information:
+Lorep ipsum
+bla bla tralala
+
+Column name 1	Column name 2	Column name 3
+1	2	9
+# In Python lines that start with # are comment lines and are automatically ignored during file reading
+4	5	6
+7	8	3
