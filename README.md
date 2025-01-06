@@ -20,5 +20,7 @@ Congratulations! You have started the JupyterLab Programming Environment for the
 
 ## 4. Run the sample Notebook
 Download the (Sample Notebook)[Sample_Notebook.ipynb] and the associated (sample data file)[sample.123] into your JupyterLab working directory, refresh the file browser and open the Sample Notebook in your JupyterLab environment:
+![Make sure to check at least the "Add Python to PATH" option](/docs/images/Screenshot_2025-01-06_160153.jpg)
 
-There you will find all kind of 
+There you will a minimal example of how to read in a text file and visualize the data in a plot.
+Have fun, I hope it will be helpful =)
