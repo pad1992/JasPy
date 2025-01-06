@@ -19,3 +19,6 @@ Then [start JupyterLab](https://jupyterlab.readthedocs.io/en/latest/getting_star
 Congratulations! You have started the JupyterLab Programming Environment for the first time.
 
 ## 4. Run the sample Notebook
+Download the (Sample Notebook)[Sample_Notebook.ipynb] and the associated (sample data file)[sample.123] into your JupyterLab working directory, refresh the file browser and open the Sample Notebook in your JupyterLab environment:
+
+There you will find all kind of 
