@@ -8,7 +8,7 @@ Make sure to check all the options below after installation:
 
 *Make sure to check at least the "Add Python to PATH" option*
 
-## 2. Python's analoge Umgebung zu MatLab: JupyterLab
+## 2. Python's analogous environment to MatLab: JupyterLab
 Python has a similar programming environment to MatLab, which is divided into individually executable cells, called [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/#).
 After you have successfully installed Python you can [install JupyterLab](https://jupyterlab.readthedocs.io/en/latest/getting_started/installation.html#pip) by typing `pip install jupyterlab` into your Windows PowerShell and hit Enter.
 
@@ -29,5 +29,5 @@ Download the [Sample Notebook](Sample_Notebook.ipynb) and the associated [sample
 
 *Refresh the file browser after copying the files to your JupyterLab working directory*
 
-There you will a minimal example of how to read in a text file and visualize the data in a plot.
+There you will find a minimal example of how to read in a text file and visualize the data in a plot.
 Have fun, I hope it will be helpful =)
