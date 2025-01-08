@@ -31,4 +31,10 @@ Download the [Sample Notebook](Sample_Notebook.ipynb) and the associated [sample
 *Refresh the file browser after copying the files to your JupyterLab working directory*
 
 There you will find a minimal example of how to read in a text file and visualize the data in a plot.
+
+For getting help with JupyterLab, Python and its different packages, here are some helpful websites:
+- [NumPy](https://numpy.org/doc/stable/index.html)
+- [Matplotlib](https://matplotlib.org/)
+- [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/)
+
 Have fun, I hope it will be helpful =)
