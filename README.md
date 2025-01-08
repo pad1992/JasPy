@@ -37,7 +37,7 @@ For getting help with JupyterLab, Python and its different packages, here are so
 - [Matplotlib](https://matplotlib.org/)
 - [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/)
 
-## 5. An exmaplary analysis of OSP data
+## 5. An examplary analysis of OSP data
 Download the [OSP_Data_Analysis Notebook](OSP_Data_Analysis.ipynb) and the associated [OSP data file](22050210.055) into your JupyterLab working directory, refresh the file browser and open the Sample Notebook in your JupyterLab environment.
 
 In this notebook you will find:
