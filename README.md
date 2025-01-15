@@ -42,7 +42,7 @@ Download the [OSP_Data_Analysis Notebook](OSP_Data_Analysis.ipynb) and the assoc
 
 In this notebook you will find:
 1. The read in of a typical OSP data file
-2. The visualization of one torque time series plus a reliable way for proper baseline calculation
+2. The visualization of one torque time series plus a reliable way for proper baseline calculation plus finding the start positions of the peaks
 3. The programming of a running average function with variable running window size. The running window is implemented such that it does not exhibit an x-shift
 4. The visualization of the derivative (=gradient) of the original and averaged data
 5. Visualization of many data series of the same kind for collective analysis of common and distinct features in two different ways: As a simple 2d histogram with and without interpolation
